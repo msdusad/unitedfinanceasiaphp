@@ -682,24 +682,27 @@ attractive interest rates and up to 7 years tenure.Car Loan offers are extended 
   </section>
   <!-- End Testimonial section -->
 
-  <!-- Start Clients brand 
+ <!--Start Clients brand  -->
   <section id="clients-brand">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
+
           <div class="clients-brand-area">
+ <center><h2 class="title" style="color:#2bcdc1;">Our Partners</h2></center>
+ <span class="line"></span>
             <ul class="clients-brand-slide">
               <li class="col-md-3">
                 <div class="single-brand">
-                  <img src="assets/images/amazon.png" alt="img">
+                  <img src="assets/images/excelfinance.png" alt="img" width="250" height="70">
                 </div>
               </li>
               <li class="col-md-3">
                 <div class="single-brand">
-                  <img src="assets/images/discovery.png" alt="img">
+                  <img src="assets/images/careindia.png" alt="img" width="250" height="70">
                 </div>
               </li>
-              <li class="col-md-3">
+             <!--  <li class="col-md-3">
                 <div class="single-brand">
                   <img src="assets/images/envato.png" alt="img">
                 </div>
@@ -728,14 +731,14 @@ attractive interest rates and up to 7 years tenure.Car Loan offers are extended 
                 <div class="single-brand">
                   <img src="assets/images/tuenti.png" alt="img">
                 </div>
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>
       </div>
     </div>
   </section>
- End Clients brand -->
+ <!--End Clients brand --> 
 
   <!-- Start latest news -->
  <!--  <section id="latest-news">

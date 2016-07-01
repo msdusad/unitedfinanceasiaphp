@@ -187,7 +187,7 @@
             <li><a href="service.php">Service</a></li>
             <li><a href="portfolio.php">Portfolio</a></li> -->
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Loans Types<span class="fa fa-angle-down"></span></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Loans Types &nbsp;&nbsp;<span class="fa fa-angle-down"></span></a>
               <ul class="dropdown-menu" role="menu">
                 <li><a href="home-loan.php">Home Loan</a></li>  
                  <li><a href="property-loan.php">Property Loan</a></li> 
@@ -196,7 +196,8 @@
                 <li><a href="personal-loan.php">Personal Loan</a></li>
     <li><a href="car-loan.php">Car Loan</a></li>       
               </ul>
-            </li>                   
+            </li>           
+             <li><a href="partner.php">Our Partners</a></li>        
             <li><a href="contact.php">Contact</a></li>
           </ul>                     
         </div><!--/.nav-collapse -->

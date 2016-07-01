@@ -8,7 +8,7 @@
           <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="single-page-header-left">
               <h2>Contact</h2>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+              <p></p>
             </div>
           </div>
           <div class="col-md-6 col-sm-6 col-xs-12">
@@ -32,7 +32,7 @@
            <div class="title-area">
               <h2 class="title">Have any Questions?</h2>
               <span class="line"></span>
-              <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
+            <!--   <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p> -->
             </div>
          </div>
          <div class="col-md-12">
@@ -41,19 +41,26 @@
                <div class="col-md-4">
                  <div class="contact-area-left">
                    <h4>Contact Info</h4>
-                   <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
+                   <p>Head Office 12</p>
+                   <address class="single-address">
+                     <p>Park Rajpura Road , Dehradun, Uttarakhand, India</p>
+                     <p>unitedfinance@asia.com</p>
+                     <p>011-69999629</p>
+                   </address> 
+
+                   <p>USA Address</p>
                    <address class="single-address">
                      <p>P.O. Box 240000. Huntsville, AL 35813, USA Street address: 305</p>
-                     <p>support@gmail.com</p>
+                     <p>unitedfinanceus@asia.com</p>
                      <p>+1(06) 778 5468</p>
                    </address> 
-                   <div class="footer-right contact-social">
+                 <!--   <div class="footer-right contact-social">
                       <a href="index.html"><i class="fa fa-facebook"></i></a>
                       <a href="#"><i class="fa fa-twitter"></i></a>
                       <a href="#"><i class="fa fa-google-plus"></i></a>
                       <a href="#"><i class="fa fa-linkedin"></i></a>
                       <a href="#"><i class="fa fa-pinterest"></i></a>
-                    </div>                
+                    </div>     -->            
                  </div>
                </div>
                <div class="col-md-8">
