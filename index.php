@@ -155,7 +155,24 @@ attractive interest rates and up to 7 years tenure.Car Loan offers are extended 
           <div class="title-area">
             <h2 class="title">About us</h2>
             <span class="line"></span>
-            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
+            <p>Welcome to India's fastest growing most diversified Non Bank Finance Company which also
+happens to be amongst India's 29 Best Employers. The businesses are spread across lending,
+insurance, wealth management verticals. UNITED FINANCE is the lending arm of the group,
+with product lines which broadly focuses on consumer finance, SME and commercial
+business. We've seen our belief at work every day for the last 07 years. And our journey to
+become India's fastest growing and most diversified Non Bank Financing Company is proof
+that Empowerment delivers.<br>
+We offer Loan's at 5% PA. Interest Loans Lender. A registered and legitimate MNC loan
+lender. We lender financial services (LOANS) and we give out loans at low interest rate to the
+financial handicapped_ Individuals, Companies, Industries, Firms and people in the Society
+and also Sponsor you to furnish your talent and achieve your goals. We give out loans
+ranging from 1 Lakh to 1 Crores and above.<br>
+Note: We deal in all kinds of loan- Home Loan, Personal Loan, Business Loan. Education
+Loan. Contacts our executive for more details. If your loan not sanction within 1 to 24
+working hours, then your security amount will be refund within next Ito 24 working hours
+We will provide the Buiseness Loan from UNITED FINANCE and your loan amount is 40 Lakhs
+on 5% P.A. rate of interest and your per mount EMI is Rs. 31,819/- and loan tenure is 10
+years</p>
           </div>
         </div>
         <div class="col-md-12">
@@ -207,14 +224,14 @@ attractive interest rates and up to 7 years tenure.Car Loan offers are extended 
                       <div class="panel-heading">
                         <h4 class="panel-title">
                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                            Awesome Design Layout <span class="fa fa-minus-square"></span>
+                            Our Approach <span class="fa fa-minus-square"></span>
                           </a>
                         </h4>
                       </div>
                       <div id="collapseOne" class="panel-collapse collapse in">
                         <div class="panel-body">
                         <img class="why-choose-img" src="assets/images/testi1.jpg" alt="img">
-                         <p> Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p>
+                         <p> To us, it's not just work - we take pride in the solutions we deliver. We encourage each other to achieve excellence in all endeavours and aren't satisfied until projects meet our own personal high standards.</p>
                         </div>
                       </div>
                     </div>
@@ -222,13 +239,13 @@ attractive interest rates and up to 7 years tenure.Car Loan offers are extended 
                       <div class="panel-heading">
                         <h4 class="panel-title">
                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                            Quality Coding <span class="fa fa-plus-square"></span>
+                          Our Unique Abilities <span class="fa fa-plus-square"></span>
                           </a>
                         </h4>
                       </div>
                       <div id="collapseTwo" class="panel-collapse collapse">
                         <div class="panel-body">
-                         <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p>
+                         <p>We listen, we discuss, we advise. Sounds obvious but we listen to your ideas, plans and objectives for your business. We then select the best solution to fit. We don’t shoehorn projects and if we feel we’re not a good fit we’ll be honest and tell you from the outset.</p>
                         </div>
                       </div>
                     </div>
@@ -236,13 +253,13 @@ attractive interest rates and up to 7 years tenure.Car Loan offers are extended 
                       <div class="panel-heading">
                         <h4 class="panel-title">
                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                            Great Support <span class="fa fa-plus-square"></span>
+                            Experience <span class="fa fa-plus-square"></span>
                           </a>
                         </h4>
                       </div>
                       <div id="collapseThree" class="panel-collapse collapse">
                         <div class="panel-body">
-                          <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p>
+                          <p>As a company we have been trading last few years however we’ve been designing and developing websites since the mid-nineties. We love discussing and planning new projects and have years of knowledge and experience that we bring to the table.</p>
                         </div>
                       </div>
                     </div>
@@ -529,31 +546,31 @@ attractive interest rates and up to 7 years tenure.Car Loan offers are extended 
   </section> -->
   <!-- End Pricing table -->  
 
-  <!-- Start Pricing table 
+<!-- Start Pricing table -->
   <section id="our-team">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="title-area">
-            <h2 class="title">Our Team</h2>
+            <h2 class="title">Our Experts</h2>
             <span class="line"></span>
-            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
+          <!--   <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p> -->
           </div>
         </div>
         <div class="col-md-12">
           <div class="our-team-content">
             <div class="row">
-              <!-- Start single team member 
+              <!-- Start single team member -->
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="single-team-member">
                  <div class="team-member-img">
-                   <img src="assets/images/team-member-2.png" alt="team member img">
+                   <img src="assets/images/rajan.jpg" alt="team member img">
                  </div>
                  <div class="team-member-name">
-                   <p>John Doe</p>
+                   <p>Rajan  Koushik</p>
                    <span>CEO</span>
                  </div>
-                 <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+               <!--   <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p> -->
                  <div class="team-member-link">
                    <a href="#"><i class="fa fa-facebook"></i></a>
                    <a href="#"><i class="fa fa-twitter"></i></a>
@@ -561,18 +578,18 @@ attractive interest rates and up to 7 years tenure.Car Loan offers are extended 
                  </div>
                 </div>
               </div>
-              <!-- Start single team member 
-              <!-- Start single team member 
+              <!-- Start single team member -->
+              <!-- Start single team member -->
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="single-team-member">
                  <div class="team-member-img">
-                   <img src="assets/images/team-member-1.png" alt="team member img">
+                   <img src="assets/images/narender.jpg" alt="team member img">
                  </div>
                  <div class="team-member-name">
-                   <p>Bernice Neumann</p>
-                   <span>Designer</span>
+                   <p>Narender  Reddy</p>
+                   <span>Certified Public Accountant</span>
                  </div>
-                 <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+                <!--  <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p> -->
                  <div class="team-member-link">
                    <a href="#"><i class="fa fa-facebook"></i></a>
                    <a href="#"><i class="fa fa-twitter"></i></a>
@@ -580,18 +597,18 @@ attractive interest rates and up to 7 years tenure.Car Loan offers are extended 
                  </div>
                 </div>
               </div>
-              <!-- Start single team member 
-              <!-- Start single team member 
+              <!-- Start single team member -->
+              <!-- Start single team member -->
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="single-team-member">
                  <div class="team-member-img">
-                   <img src="assets/images/team-member-3.png" alt="team member img">
+                   <img src="assets/images/rohit.jpg" alt="team member img">
                  </div>
                  <div class="team-member-name">
-                   <p>Dvid Cameron</p>
-                   <span>Developer</span>
+                   <p>Rohit Dewaan</p>
+                   <span>Chartered Financial Advisor</span>
                  </div>
-                 <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+                <!--  <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p> -->
                  <div class="team-member-link">
                    <a href="#"><i class="fa fa-facebook"></i></a>
                    <a href="#"><i class="fa fa-twitter"></i></a>
@@ -599,18 +616,18 @@ attractive interest rates and up to 7 years tenure.Car Loan offers are extended 
                  </div>
                 </div>
               </div>
-              <!-- Start single team member 
-              <!-- Start single team member 
+              <!-- Start single team member -->
+              <!-- Start single team member -->
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="single-team-member">
                  <div class="team-member-img">
-                   <img src="assets/images/team-member-1.png" alt="team member img">
+                   <img src="assets/images/badha.jpg" alt="team member img">
                  </div>
                  <div class="team-member-name">
-                   <p>Bernice Neumann</p>
-                   <span>Designer</span>
+                   <p>Badha Chadha </p>
+                   <span>Registered Tax Preparer</span>
                  </div>
-                 <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+               <!--   <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p> -->
                  <div class="team-member-link">
                    <a href="#"><i class="fa fa-facebook"></i></a>
                    <a href="#"><i class="fa fa-twitter"></i></a>
@@ -618,7 +635,7 @@ attractive interest rates and up to 7 years tenure.Car Loan offers are extended 
                  </div>
                 </div>
               </div>
-              <!-- Start single team member 
+              <!-- Start single team member -->
             </div>
           </div>
         </div>

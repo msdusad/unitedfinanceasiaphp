@@ -197,7 +197,8 @@
     <li><a href="car-loan.php">Car Loan</a></li>       
               </ul>
             </li>           
-             <li><a href="partner.php">Our Partners</a></li>        
+             <li><a href="partner.php">Our Partners</a></li>
+               <li><a href="our-team.php">Our Team</a></li>        
             <li><a href="contact.php">Contact</a></li>
           </ul>                     
         </div><!--/.nav-collapse -->
